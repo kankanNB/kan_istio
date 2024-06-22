@@ -1,2 +1,5 @@
-istio/pilot:1.22.1
-istio/proxyv2:1.22.1
+istio/examples-bookinfo-details-v1:1.19.1
+istio/examples-bookinfo-ratings-v1:1.19.1
+istio/examples-bookinfo-reviews-v1:1.19.1
+istio/examples-bookinfo-reviews-v2:1.19.1
+istio/examples-bookinfo-productpage-v1:1.19.1
