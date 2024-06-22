@@ -1,1 +1,1 @@
-istio/kiali:v1.82
+quay.io/kiali/kiali:v1.82
